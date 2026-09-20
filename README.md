@@ -1,2 +1,16 @@
-# my-app-2054
-AI scaffolded project with react-vite-tailwind
+# My-app
+
+Production starter for my-app
+
+## Getting Started
+
+```bash
+npm install
+npm run dev
+```
+
+## Build for Production
+
+```bash
+npm run build
+```
